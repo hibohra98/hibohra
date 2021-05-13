@@ -11,4 +11,5 @@
 
 ### About Me 🚀
 🎓 I’m a Support Engineer at Microsoft in Azure PaaS Developer support team  & I have pursued my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Technology in general, Azure, DSA, Web Dev, CPP & I enjoy learning new things. </br>
+👨‍💻 :pencil: :telescope:  I am passionate about Technology & I have experience in Azure, DSA, Web Dev, CPP & I enjoy learning new things. </br>
+
